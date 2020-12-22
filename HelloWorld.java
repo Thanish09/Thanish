@@ -10,7 +10,7 @@ public class HelloWorld{
 		if (arg.length > 0)
 			System.out.println("Hello world! " + arg[0]);
 		else
-			System.out.println("Hello world!");
+			System.out.println("Hello world! HIIIIIIIIIIIIIIIIII");
 	}	
 	
 	
